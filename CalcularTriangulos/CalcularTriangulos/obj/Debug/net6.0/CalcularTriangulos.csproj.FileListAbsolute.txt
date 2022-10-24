@@ -1,0 +1,15 @@
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\bin\Debug\net6.0\CalcularTriangulos.exe
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\bin\Debug\net6.0\CalcularTriangulos.deps.json
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\bin\Debug\net6.0\CalcularTriangulos.runtimeconfig.json
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\bin\Debug\net6.0\CalcularTriangulos.dll
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\bin\Debug\net6.0\CalcularTriangulos.pdb
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\obj\Debug\net6.0\CalcularTriangulos.csproj.AssemblyReference.cache
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\obj\Debug\net6.0\CalcularTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\obj\Debug\net6.0\CalcularTriangulos.AssemblyInfoInputs.cache
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\obj\Debug\net6.0\CalcularTriangulos.AssemblyInfo.cs
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\obj\Debug\net6.0\CalcularTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\obj\Debug\net6.0\CalcularTriangulos.dll
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\obj\Debug\net6.0\refint\CalcularTriangulos.dll
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\obj\Debug\net6.0\CalcularTriangulos.pdb
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\obj\Debug\net6.0\CalcularTriangulos.genruntimeconfig.cache
+C:\Users\edwin\Documents\Projetos\CalcularTriangulos\CalcularTriangulos\CalcularTriangulos\obj\Debug\net6.0\ref\CalcularTriangulos.dll
